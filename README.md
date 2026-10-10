@@ -20,8 +20,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="img/baidu-momokaoka.jpeg" width="200" alt="百度网盘下载二维码" />
 </p>
-
-<p align="center">
-  左：夸克网盘 &nbsp;|&nbsp; 右：百度网盘
-</p>
-
